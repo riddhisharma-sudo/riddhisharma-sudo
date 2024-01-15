@@ -9,6 +9,7 @@ Welcome to my GitHub profile! 🚀
 - Full-Stack Development
 - Algorithms and Data Structures
 - UI/UX Design
+- 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourUsername)
 ## 🔥 My Contributions
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
