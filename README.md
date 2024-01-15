@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! 🚀
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=riddhisharma-sudoe&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=riddhisharma-sudo&show_icons=true&theme=dark)
 
 ## 🚀 My Skills
 - Full-Stack Development
