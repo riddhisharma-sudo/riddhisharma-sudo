@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! 🚀
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=riddhisharma-sudoe&show_icons=true&theme=dark)
 
 ## 🚀 My Skills
 - Full-Stack Development
@@ -11,10 +11,10 @@ Welcome to my GitHub profile! 🚀
 - UI/UX Design
 - Digital Marketing
 - 
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername)
+![Profile Views](https://komarev.com/ghpvc/?username=riddhisharma-sudo)
 
 ## 🔥 My Contributions
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riddhisharma-sudo&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue)](YourLinkedInLink)
 [![Twitter](https://img.shields.io/badge/Twitter-YourTwitter-blue)](YourTwitterLink)
