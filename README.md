@@ -16,8 +16,8 @@ Welcome to my GitHub profile! 🚀
 ## 🔥 My Contributions
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riddhisharma-sudo&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue)](YourLinkedInLink)
-[![Twitter](https://img.shields.io/badge/Twitter-YourTwitter-blue)](YourTwitterLink)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue)](https://www.linkedin.com/in/riddhi-sharma-766373254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Twitter](https://img.shields.io/badge/Twitter-YourTwitter-blue)](https://x.com/riddhis11?t=q8Bxz6Bomcj8itneDmX2hA&s=09)
 ## 🤖 Fun Fact
 Did you know that a group of flamingos is called a "flamboyance"? 🦩
 
