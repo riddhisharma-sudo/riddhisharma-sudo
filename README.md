@@ -19,7 +19,7 @@ Welcome to my GitHub profile! 🚀
 
 ## 🔥 My Contributions
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riddhisharma-sudo&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=riddhisharma-sudo)](https://git.io/streak-stats)
 
 ## 🌐 Connect with Me
 
