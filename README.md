@@ -14,7 +14,7 @@ Welcome to my GitHub profile! 🚀
 ![Profile Views](https://komarev.com/ghpvc/?username=riddhisharma-sudo)
 
 ## 🔥 My Contributions
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riddhisharma-sudo&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+https://github-readme-streak-stats.herokuapp.com/?user=riddhisharma-sudo&theme=dark
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/)](https://www.linkedin.com/in/riddhi-sharma-766373254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Twitter](https://img.shields.io/badge/)](https://x.com/riddhis11?t=q8Bxz6Bomcj8itneDmX2hA&s=09)
